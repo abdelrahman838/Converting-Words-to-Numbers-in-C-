@@ -5,8 +5,10 @@
 #include <algorithm>
 #include <sstream>
 #include <cctype>
-
 using namespace std;
+ 
+// code to turn worded numbers into numerical value by **Abdelrahman Abdelhamid**
+
 
 map<string, long> wordToNum = {
     {"zero", 0}, {"one", 1}, {"two", 2}, {"three", 3}, {"four", 4},
